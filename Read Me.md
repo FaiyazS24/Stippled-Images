@@ -48,8 +48,6 @@ This project demonstrates a generative art system that creates stippled (dot-bas
 StippleArtGenerationAI
 │
 ├── StippledArtGeneration_Abbas&Faiyaz.ipynb  # Main notebook for generating stippled art
-├── Final Documentation Abbas & Faiyaz.pdf   # Detailed project documentation
-├── requirements.txt                         # Python dependencies
 ├── README.md                                # Project overview and instructions
 ├── test_images/                             # Sample input images for testing
 │   ├── Whale.png
